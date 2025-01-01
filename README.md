@@ -24,7 +24,7 @@
 
 - **Frontend**: React.js
 - **Styling**: CSS and Bootstrap
-- **Hosting**: Deployed on platforms like Vercel or Netlify.
+- **Hosting**: Deployed on Vercel platform.
 
 ---
 
